@@ -1,0 +1,150 @@
+{
+  "tblequip1": [
+    {
+      "autoid": 1,
+      "id": "equip1",
+      "description": "equip1",
+      "createuser": "system",
+      "createdate": "05-02-2024",
+      "modifyuser": "modify",
+      "modifydate": "06-02-2024"
+    },
+    {
+      "autoid": 1,
+      "id": "equip2",
+      "description": "equip2",
+      "createuser": "system",
+      "createdate": "05-02-2024",
+      "modifyuser": "modify",
+      "modifydate": "06-02-2024"
+    },
+    {
+      "id": "",
+      "autoid": "9ddfa729-1c24-41bd-a289-e7e67aa77dfe",
+      "description": "",
+      "createuser": "system",
+      "createdate": "2024-02-07T07:56:39.526Z"
+    },
+    {
+      "id": "hiiiii",
+      "autoid": "8fff22b5-f068-4ac0-8f2b-616b971bb50f",
+      "description": "hiiiii123",
+      "createuser": "system",
+      "createdate": "2024-02-07T07:56:58.690Z"
+    },
+    {
+      "id": "raja1",
+      "autoid": "0c81bf09-56f9-4b1b-bc85-cf44894699e6",
+      "description": "raja123",
+      "createuser": "system",
+      "createdate": "2024-02-07T12:43:14.614Z"
+    },
+    {
+      "id": "",
+      "autoid": "10c35297-9701-47fd-8331-c6b6972aa916",
+      "description": "",
+      "createuser": "system",
+      "createdate": "2024-02-14T13:19:42.436Z",
+      "modifyuser": "",
+      "modifydate": ""
+    }
+  ],
+  "tblequipprop": [
+    {
+      "autoid": 1,
+      "id": "equip1prop1",
+      "description": "equip1prop1 des",
+      "value": "30",
+      "uom": "lb",
+      "tblequipautoid": "1",
+      "createuser": "system",
+      "createdate": "05-02-2024",
+      "modifyuser": "",
+      "modifydate": "06-02-2024"
+    },
+    {
+      "autoid": 2,
+      "id": "equip2prop2",
+      "description": "equip2prop2 des",
+      "value": "40",
+      "uom": "kg",
+      "tblequipautoid": "1",
+      "createuser": "system",
+      "createdate": "05-02-2024",
+      "modifyuser": "",
+      "modifydate": "06-02-2024"
+    },
+    {
+      "autoid": 3,
+      "id": "equip3prop3",
+      "description": "equip3prop3 des",
+      "value": "50",
+      "uom": "mtr",
+      "tblequipautoid": "2",
+      "createuser": "system",
+      "createdate": "05-02-2024",
+      "modifyuser": "",
+      "modifydate": "06-02-2024"
+    },
+    {
+      "autoid": 4,
+      "id": "equip4prop4",
+      "description": "equip4prop4 des",
+      "value": "30",
+      "uom": "lb",
+      "tblequipautoid": "1",
+      "createuser": "system",
+      "createdate": "05-02-2024",
+      "modifyuser": "",
+      "modifydate": "06-02-2024"
+    },
+    {
+      "autoid": 5,
+      "id": "equip5prop5",
+      "description": "equip5prop5 des",
+      "value": "40",
+      "uom": "kg",
+      "tblequipautoid": "1",
+      "createuser": "system",
+      "createdate": "05-02-2024",
+      "modifyuser": "",
+      "modifydate": "06-02-2024"
+    },
+    {
+      "autoid": 6,
+      "id": "equip1",
+      "description": "equip1",
+      "value": "50",
+      "uom": "kg",
+      "tblequipautoid": "1",
+      "createuser": "system",
+      "createdate": "05-02-2024",
+      "modifyuser": "",
+      "modifydate": "06-02-2024"
+    },
+    {
+      "id": "equip8prop8",
+      "autoid": "645665f5-4267-4a1d-a220-f53fd70b3326",
+      "description": "equip8drop8 des",
+      "value": "40",
+      "uom": "kg",
+      "tblequipautoid": "",
+      "createuser": "system",
+      "createdate": "2024-02-14T05:53:27.674Z",
+      "modifyuser": "",
+      "modifydate": ""
+    },
+    {
+      "id": "",
+      "autoid": "5e2d82d2-bf54-4141-9260-4f6e93a840c1",
+      "description": "",
+      "value": "",
+      "uom": "",
+      "tblequipautoid": "",
+      "createuser": "system",
+      "createdate": "2024-02-14T11:23:00.919Z",
+      "modifyuser": "",
+      "modifydate": ""
+    }
+  ]
+}
